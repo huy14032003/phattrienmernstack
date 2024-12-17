@@ -1,1 +1,1 @@
-console.log('Trần Quang Huy ');
+console.log('Trần Quang Huy');
